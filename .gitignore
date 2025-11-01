@@ -1,0 +1,34 @@
+# === ETHICAL OS .gitignore (BEGINNER-FRIENDLY) ===
+
+# 1. PDFs (you generate ethical-os.pdf from .md)
+ethical-os.pdf
+*.pdf
+
+# 2. OS junk (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# 3. Editor junk (VS Code, etc.)
+.vscode/
+*.swp
+*~
+*.tmp
+
+# 4. Secrets (NEVER commit)
+.env
+secret.txt
+config.json
+
+# 5. Python (if you add tools/)
+__pycache__/
+*.pyc
+venv/
+env/
+
+# 6. Logs
+*.log
+
+# 7. Large data
+data/
+*.csv
+*.jsonl
