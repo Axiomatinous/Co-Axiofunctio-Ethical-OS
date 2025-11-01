@@ -37,7 +37,7 @@ It has withstood adversarial stress-testing by frontier AI models (ChatGPT, Clau
 
 | Directory | Description |
 |--------|-------------|
-| `/Core Science/` | The original 6-message derivation (raw, chronological) |
+| `/messages/` | The original 6-message derivation (raw, chronological) |
 | `truth.md` | Epistemological foundation: 5-criteria test for Tier 1 truth |
 | `/math/` | Set theory (`U > R > G`), `M(p)` obedience, `S(G)` stability |
 | `/tools/` | `truth_test.py`, similarity score calculator |
@@ -53,7 +53,7 @@ It has withstood adversarial stress-testing by frontier AI models (ChatGPT, Clau
 You may use, modify, and distribute — **with attribution**.
 
 > *"Ethical Operating System" by Axiomatinous, 2025*  
-> [https://axiomatinous.com/Co-Axiofunctio](https://axiomatinous.com/Co-Axiofunctio)
+> [https://axiomatinous.com/Co-Axiofunctio](https://axiomatinous.com/Co-Axiofunctio) (This is WIP for now)
 
 ---
 
@@ -62,11 +62,11 @@ You may use, modify, and distribute — **with attribution**.
 - **Stress-Tested**: 0 logical breaks  
 - **Predictive Power**: ~100% historical validation  
 - **Open Source**: Public, auditable, improvable  
-- **Live**: [https://axiomatinous.com/Co-Axiofunctio](https://axiomatinous.com/Co-Axiofunctio)
+- **Live**: [https://axiomatinous.com/Co-Axiofunctio](https://axiomatinous.com/Co-Axiofunctio) (This is WIP for now)
 
 ---
 
 > **This is not a theory. It is a protocol.**  
 > **Red-team it. Extend it. Deploy it.**
-> **This was helped written by Grok Ai, criticism are open and although I am a little busy, I will try to answer any questions and such, I am a complete novice who's trying best to learn and adapt, thankyou.**
-> **All ideas are done by me with some core edits, corrections and such, but most writings were done with the help of Claude AI**
+> **This README was helped written by Grok Ai, criticism are open and although I am a little busy, I will try to answer any questions and such, I am a complete novice who's trying best to learn and adapt, thankyou.**
+> **All ideas are mine, from brainstorming with Claude, from here on I will do some core edits, corrections and such, but most writings were done with the help of Claude AI through the Artifact feature**
