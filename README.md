@@ -6,11 +6,11 @@
 
 ### Overview
 
-Developed by me, Ace Axiomatinous started on date 29th Oct 2025 from past accumulated knowledge. A computer science engineering student, **Ethical OS** is not a philosophical treatise — it is an **engineering specification** for moral decision-making. The framework synthesizes:
+Developed by me, Ace Axiomatinous started on date 29th Oct 2025 from past accumulated knowledge, completed version 1 on 2nd Nov 2025. A computer science engineering student, **Ethical OS** is not a philosophical treatise — it is an **engineering specification** for moral decision-making. The framework synthesizes:
 
 - **Biological imperatives** (Tier 1: survival, reproduction, coordination)
 - **Structural logic** (Tiers 1–4, Axioms 1–4, Three Laws of Inter-Species Ethics)
-- **Mathematical stability analysis** (`S(G) < 0.6 → systemic collapse`)
+- **Mathematical stability analysis** (`S(G) < Sᶜʳⁱᵗ → systemic collapse`) Where Sᶜʳⁱᵗ is the critical collapse threshold.
 - **Epistemological rigor** (5-criteria test for objective truth)
 
 It has withstood adversarial stress-testing by frontier AI models (ChatGPT, Claude, Gemini) and **predicts historical moral failures** — from slavery to colonialism — with perfect retrospective accuracy.
@@ -37,36 +37,43 @@ It has withstood adversarial stress-testing by frontier AI models (ChatGPT, Clau
 
 | Directory | Description |
 |--------|-------------|
-| `/messages/` | The original 6-message derivation (raw, chronological) |
+| `/Message/` | The original 6-message derivation (raw, chronological) |
 | `truth.md` | Epistemological foundation: 5-criteria test for Tier 1 truth |
 | `/math/` | Set theory (`U > R > G`), `M(p)` obedience, `S(G)` stability |
-| `/tools/` | `truth_test.py`, similarity score calculator |
-| `red-team.md` | Live log of adversarial challenges (none have broken it) |
-| `Co-Axiofunctio.pdf` | Formal specification (Typst → PDF) |
+| `/tools/` | `truth_test.py`, similarity score calculator | (WIP)
+| `red-team.md` | Live log of adversarial challenges |
+| `Co-Axiofunctio.pdf` | Formal specification (Typst → PDF) | Completed Ver.1
 
 ---
 
 ### License
 
 **MIT License**  
-© 2025 Axiomatinous. All rights reserved.  
+© 2025 Axiomatinous.
 You may use, modify, and distribute — **with attribution**.
 
 > *"Ethical Operating System" by Axiomatinous, 2025*  
-> [https://axiomatinous.com/Co-Axiofunctio](https://axiomatinous.com/Co-Axiofunctio) (This is WIP for now)
+> [https://axiomatinous.com/Co-Axiofunctio](https://axiomatinous.com/Co-Axiofunctio)
 
 ---
 
 ### Status
 
-- **Stress-Tested**: 0 logical breaks  
+- **Stress-Tested**: 0 logical breaks within it's own framework
 - **Predictive Power**: ~100% historical validation  
 - **Open Source**: Public, auditable, improvable  
-- **Live**: [https://axiomatinous.com/Co-Axiofunctio](https://axiomatinous.com/Co-Axiofunctio) (This is WIP for now)
+- **Live**: [https://axiomatinous.com/Co-Axiofunctio](https://axiomatinous.com/Co-Axiofunctio)
 
 ---
 
-> **This is not a theory. It is a protocol.**  
-> **Red-team it. Extend it. Deploy it.**
-> **This README was helped written by Grok Ai, criticism are open and although I am a little busy, I will try to answer any questions and such, I am a complete novice who's trying best to learn and adapt, thankyou.**
-> **All ideas are mine, from brainstorming with Claude, from here on I will do some core edits, corrections and such, but most writings were done with the help of Claude AI through the Artifact feature**
+> I, Axiomatinous believe in the rigorous, structural, logical and mechanized ethical framework of "Co-Axiofunctio". 
+
+I have gone through my claims and tested them, and I am satisfied with the result obtained. I have found no clear contradictions or "black boxes", for which if possible I request you to test them out yourselves. 
+
+I am open to criticism and civilized discussions. Majority of the writing, fact checking and researched were done by me with the help of the following AIs (Gemini 2.5 Pro, Claude Sonnet 4.5 and ChatGPT-5) for stress testing, application, pre publish thoughts, grammar and co-research. I grant you the rights to share and use this ethical framework for testing and any and all purposes. If possible, do credit me.
+
+---
+
+You are granted a worldwide non-exclusive, royalty-free license to share and use this ethical framework for any purpose. This framework is released under MIT License. Attribution is appreciated.
+
+Copyright © 2025 Axiomatinous.
