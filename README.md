@@ -8,6 +8,8 @@ Note to self and people intrested.
 I will continue to read works and proper academic papers before making arguments, think about my arguments clearly until I reach bedrocks. I will create my website and list my work, progress and everything. Co-Axiofunctio will no longer be the flawless "Ethical OS" it claimed to be, but the name for my personal diary of thought and philosophy.  
 The Website: [Axiomatinous' Website](https://axiomatinous.com) (WIP - As of 4th Oct 2025)
 
+Copyright © 2025 Axiomatinous.
+
 ---
 
 ~~# "Co-Axiofunctio" an Ethical Operating System (Ethical OS)~~
